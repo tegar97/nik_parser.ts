@@ -13,9 +13,9 @@
     "type": "git",
     "url": "git+https://github.com/mul14/nik_parser.ts.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["ktp", "nik"],
+  "author": "Mulia Arifandi Nasution",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mul14/nik_parser.ts/issues"
   },
